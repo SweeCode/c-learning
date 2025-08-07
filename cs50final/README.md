@@ -1,6 +1,6 @@
 # Stock Market Simulator
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <(https://www.youtube.com/watch?v=8F5zsI7KUMA)>
 
 #### Description:
 
